@@ -1,2 +1,2 @@
 # coffeeMachine
-a simple imitation of coffee machine working
+Simple imitation of coffee machine working
